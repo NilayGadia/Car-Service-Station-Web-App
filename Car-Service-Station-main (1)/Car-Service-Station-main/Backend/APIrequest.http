@@ -1,0 +1,24 @@
+### Authentication API Testing ###
+
+# Authenticate User
+POST http://localhost:8080/users/Login
+Content-Type: application/json
+
+{
+  "email": "user@example.com",
+  "passwd": "password123"
+}
+
+### User Registration API Testing ###
+
+# Register User
+POST http://localhost:8080/users/SignUp
+Content-Type: application/json
+
+{
+  "fname": "John",
+  "lname": "Doe",
+  "email": "john.doe@example.com",
+  "password": "P@ssw0rd",
+  "outlet": "OutletName"
+}

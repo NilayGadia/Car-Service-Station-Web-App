@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7b7ee48f.css",
+    "main.js": "/static/js/main.dc74f706.js",
+    "static/media/Oil Change.jpg": "/static/media/Oil Change.00a45d7a774151cedfdc.jpg",
+    "static/media/paypal.png": "/static/media/paypal.c3b8d9143e78a4821f01.png",
+    "static/media/AC Service.jpg": "/static/media/AC Service.f73592ec2ca5955a9673.jpg",
+    "static/media/Engine Tune Up.jpg": "/static/media/Engine Tune Up.153bbb18c5bca05e293c.jpg",
+    "static/media/cc.jpg": "/static/media/cc.fa29c02538970f1791f2.jpg",
+    "static/media/TEXTAR.png": "/static/media/TEXTAR.540ee6e96f211c21b65f.png",
+    "static/media/hiw2.png": "/static/media/hiw2.f3c62a58308bdef78304.png",
+    "static/media/Logo2.png": "/static/media/Logo2.5201826063192199b28a.png",
+    "static/media/gpay2.png": "/static/media/gpay2.fcbe59f91821d82a16a7.png",
+    "static/media/VALEO.jpg": "/static/media/VALEO.c636f30d2991b058cb1d.jpg",
+    "static/media/SACHS.png": "/static/media/SACHS.6004320bf77053abaaee.png",
+    "index.html": "/index.html",
+    "main.7b7ee48f.css.map": "/static/css/main.7b7ee48f.css.map",
+    "main.dc74f706.js.map": "/static/js/main.dc74f706.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7b7ee48f.css",
+    "static/js/main.dc74f706.js"
+  ]
+}
